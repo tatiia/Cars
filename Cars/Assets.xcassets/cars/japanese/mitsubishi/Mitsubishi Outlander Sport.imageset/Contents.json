@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "mitsubishi_18outlandersportselod1ra_angularfront_labradorblackmetallic.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
